@@ -1,4 +1,4 @@
-# P3-Clasificaci-n-de-los-lenguajes-por-ofertas-de-trabajo.
+# P3-Clasificación-de-los-lenguajes-por-ofertas-de-trabajo.
 1º Java: 18.000  
 imagen con el número de empleos:  
 <img width="365" height="45" alt="image" src="https://github.com/user-attachments/assets/da06367a-7f4b-4f7b-8719-641333a305dd" />
